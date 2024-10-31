@@ -1,19 +1,17 @@
-# README DYNAMO
+# DREAM MODE OF TRANSPO
 ![GitHub License](https://img.shields.io/badge/license-MIT-orange.svg)
 
-# <Your-Project-Title> 
+# <Your-Project-Title>
 
-## Questions 
+## Questions
 
 https://github.com/ZadeHart
 
 Please contact me at zadehartpro@gmail.com with any further questions.
 
-https://drive.google.com/file/d/1lHMcNoXMzrxSVH0DtEnniIB0u1cDy9Fl/view?usp=drive_link
-
 ## Description
 
-This project is used to generate a README file.
+This is an application that let's you build your dream car, truck, or motorbike.
 
 ## Table of Contents (Optional)
 
@@ -28,24 +26,26 @@ This project is used to generate a README file.
 
 ## Installation
 
-npm install
+npm i
 
 ## Usage
 
-This project makes it easy to create a README file and even generates one for you. 😱
+This repository is used to maintain an application that allows one to build their own vehicle.
 
 ## Credits
 
-Zachary A. De Hart
-https://github.com/ZadeHart
+Yosuke Kibe
 
-[README Guide ](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+Shane Baired
 
-[Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide)
+## Features
+
+A variety of choices and options to create and test a vehicle.
 
 ## How to Contribute
 
-Anyone and everyone can add their own questions to create a more unique README file.
+Users can contribute to this repository by adding their own questions and
+ details to the choices to make a more unique vehicle.
 
 ## Tests
 
