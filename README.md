@@ -38,7 +38,7 @@ This repository is used to maintain an application that allows one to build thei
 
 Yosuke Kibe
 
-Shane Baired
+Shane Baird
 
 ## Features
 
